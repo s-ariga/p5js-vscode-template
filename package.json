@@ -1,0 +1,16 @@
+{
+  "name": "p5js-vscode-template",
+  "version": "1.0.0",
+  "description": "Visual Studio Codeでp5.js開発をするためのテンプレート",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/p5": "^0.9.1",
+    "live-server": "^1.2.1"
+  }
+}
